@@ -1,1 +1,3 @@
-#This is my local repo hahahaha
+# This is my local repo hahahaha
+# SO I HAVE STARTED LEARNING GIT AND GITHUB RECENTLY
+# YAAYAYAYAYAY
